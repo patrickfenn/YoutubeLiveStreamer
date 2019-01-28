@@ -30,5 +30,3 @@ This java program is used to automatically check youtube channels for live strea
 VLC : https://www.videolan.org/vlc/
 
 Streamlink : https://github.com/streamlink/streamlink
-
-I
