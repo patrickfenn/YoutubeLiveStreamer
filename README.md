@@ -1,6 +1,18 @@
 # YoutubeLiveStreamer
 YoutubeLiveStreamer(JavaFX)
 
+---------------------------------
+
+Features:
+
+*Automatically check youtube channels for live streams.
+
+*Launch the stream with either youtube or streamlink. 
+
+*Get notified when streamers go live via desktop notifications. 
+
+---------------------------------
+
 This java program is used to automatically check youtube channels for live streams every 5 minutes. It also has the ability to launch the stream in either Youtube or VLC using streamlink. In order to launch it in Streamlink it  is required to have the following installed:
 
 VLC : https://www.videolan.org/vlc/
