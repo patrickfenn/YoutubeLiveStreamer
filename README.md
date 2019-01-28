@@ -18,7 +18,11 @@ VLC : https://www.videolan.org/vlc/
 
 Streamlink : https://github.com/streamlink/streamlink
 
+In order to run it you need java installed:
+
 Java: https://www.java.com/en/download/
+
+For binaries
 
 Upon being run for the first time the user will ask to authorize the program on youtube. After it will create a text file in the directory it was run 'channels.txt'. Populate the text file with the youtube channels you want to check:
 Ice Poseidon's channel is : https://www.youtube.com/channel/UCv9Edl_WbtbPeURPtFDo-uA, we only need: 
