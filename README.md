@@ -18,10 +18,12 @@ Java: https://www.java.com/en/download/
 
 For binaries: https://sourceforge.net/projects/youtubelivestreamer/files/YoutubeLiveStreamer.zip/download
 
-Upon being run for the first time the user will ask to authorize the program on youtube. After it will create a text file in the directory it was run 'channels.txt'. Populate the text file with the youtube channels you want to check:
+Upon being run for the first time it will create a text file 'channels.txt'. Here you will need to add channelIDs of the youtube channel you want to check, ie:
 Ice Poseidon's channel is : https://www.youtube.com/channel/UCv9Edl_WbtbPeURPtFDo-uA, we only need: 
 UCv9Edl_WbtbPeURPtFDo-uA
 Seperate each channel with a new line. 
+
+It will then ask you for a one time authorization to youtube, which is required to make video api requests. 
 
 ---------------------------------
 
