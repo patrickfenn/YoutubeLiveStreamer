@@ -1,5 +1,4 @@
-# YoutubeLiveStreamer
-YoutubeLiveStreamer(JavaFX)
+# YoutubeLiveStreamer(Streamlink)
 
 ---------------------------------
 
