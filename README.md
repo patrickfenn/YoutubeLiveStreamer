@@ -36,4 +36,4 @@ VLC : https://www.videolan.org/vlc/
 
 Streamlink : https://github.com/streamlink/streamlink
 
-NOTE: There is a bug in streamlink atm that results in no streams being detected, either wait for a fix or replace the youtube plugin at : C:\Program Files\VideoLAN\VLC\plugins with: https://gist.github.com/yoya3312/129c55c1139442191c6c08183d357bce
+NOTE: There is a bug in streamlink atm that results in no streams being detected, either wait for a fix or replace the youtube plugin at : \Streamlink\pkgs\streamlink\plugins with: https://gist.github.com/yoya3312/129c55c1139442191c6c08183d357bce
