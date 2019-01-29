@@ -10,6 +10,8 @@ Features:
 
 *Get notified when streamers go live via desktop notifications. 
 
+*Easily take neatclips of live streams.
+
 ---------------------------------
 
 In order to run it you need java installed:
